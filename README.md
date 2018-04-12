@@ -16,7 +16,7 @@ extraia todos os dados para esta pasta.
 
 ## Ambiente
 
-Para verificar a solução siga este [tutorial]() para instalar seu virtualenv de python.
+Para verificar a solução siga este [tutorial](https://github.com/SkyNetRecruits/Documentacao/blob/master/documentacaoSolucao/ambiente.md) para instalar seu virtualenv de python.
 
 Após ter seu ambiente de desenvolvimento configurado execute o seguinte comando:
 
@@ -24,4 +24,4 @@ Após ter seu ambiente de desenvolvimento configurado execute o seguinte comando
 
 ## Documentação
 
-A documentação e interpretação do proble está [aqui]().
+A documentação e interpretação do problema está [aqui](https://github.com/SkyNetRecruits/Documentacao/blob/master/documentacaoSolucao/abordagem.md).
