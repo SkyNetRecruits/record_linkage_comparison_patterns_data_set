@@ -31,14 +31,16 @@ prompt-toolkit==1.0.15
 ptyprocess==0.5.2
 Pygments==2.2.0
 python-dateutil==2.7.2
+pytz==2018.4
 PyYAML==3.12
 pyzmq==17.0.0
 qtconsole==4.3.1
+scikit-learn==0.19.1
 scipy==1.0.1
-sklearn==0.0
 Send2Trash==1.5.0
 simplegeneric==0.8.1
 six==1.11.0
+sklearn==0.0
 terminado==0.8.1
 testpath==0.3.1
 tornado==5.0.2
