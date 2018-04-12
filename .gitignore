@@ -1,2 +1,9 @@
-# Dir with data set
-donation/
+# Jupyter-notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.~
+.swp
+
+# Igonre data files
+*.csv
