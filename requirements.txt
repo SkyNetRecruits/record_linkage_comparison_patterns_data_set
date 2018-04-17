@@ -6,7 +6,7 @@ entrypoints==0.2.3
 graphviz==0.8.2
 html5lib==1.0.1
 ipykernel==4.8.2
-ipython==6.3.1
+ipython==5.6.0
 ipython-genutils==0.2.0
 ipywidgets==7.2.0
 jedi==0.11.1
@@ -49,3 +49,4 @@ traitlets==4.3.2
 wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.2.0
+seaborn==0.8.1
