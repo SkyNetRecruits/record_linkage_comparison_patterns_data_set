@@ -50,7 +50,6 @@ python-dateutil==2.7.2
 pytz==2018.4
 PyYAML==3.12
 pyzmq==17.0.0
-QScintilla==2.10.1
 qtconsole==4.3.1
 scikit-learn==0.19.1
 scipy==1.0.1
