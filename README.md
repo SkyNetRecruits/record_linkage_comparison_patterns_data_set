@@ -26,3 +26,17 @@ Após ter seu ambiente de desenvolvimento configurado execute o seguinte comando
 ## Documentação
 
 A documentação e interpretação do problema está [aqui](https://github.com/SkyNetRecruits/Documentacao).
+
+## Referências
+
+A principal referência para a solução do problema foi a documentação do [scikit-learn](http://scikit-learn.org/stable/modules/neural_networks_supervised.html)
+
+Os seguintes links também foram úteis:
+
+* [wildml](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
+
+* [Tips on Practical Use](http://scikit-learn.org/stable/modules/neural_networks_supervised.html#mlp-tips)
+
+* [Beginner's Guide](https://www.springboard.com/blog/beginners-guide-neural-network-in-python-scikit-learn-0-18/)
+
+* [train_test_split](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)

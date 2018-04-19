@@ -3,7 +3,7 @@
 
 # Temporary files
 *.~
-.swp
+*.swp
 
 # Igonre data files
 *.csv
