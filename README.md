@@ -2,6 +2,17 @@
 
 O problema que é abordado neste repositorio é [este](https://googleweblight.com/i?u=https://archive.ics.uci.edu/ml/datasets/record%2Blinkage%2Bcomparison%2Bpatterns&hl=pt-BR).
 
+O problema foi solucionado de 3 formas diferentes:
+
+* **Decision Tree**
+
+* **KNN**
+
+* **Neural Network**
+
+Cada uma das soluções possuem seus próprios contextos, dependências e 
+nootebooks. É possível verificá-las em em suas pastas.
+
 ## Dados
 
 Os dados do problema estão [aqui](https://googleweblight.com/i?u=https://archive.ics.uci.edu/ml/datasets/record%2Blinkage%2Bcomparison%2Bpatterns&hl=pt-BR).
@@ -29,6 +40,11 @@ A documentação e interpretação do problema está [aqui](https://github.com/S
 
 ## Referências
 
+### Decision Tree
+
+### KNN
+
+### Neural Network
 A principal referência para a solução do problema foi a documentação do [scikit-learn](http://scikit-learn.org/stable/modules/neural_networks_supervised.html)
 
 Os seguintes links também foram úteis:
