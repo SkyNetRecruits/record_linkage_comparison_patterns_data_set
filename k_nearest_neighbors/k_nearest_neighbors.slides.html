@@ -11901,6 +11901,56 @@ a.anchor-link {
 <div class="reveal">
 <div class="slides">
 <section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Problema">Problema<a class="anchor-link" href="#Problema">&#182;</a></h2>
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Record-Linkage">Record Linkage<a class="anchor-link" href="#Record-Linkage">&#182;</a></h2><p>Segundo : Ivan P. Fellegi &amp; Alan B. Sunter em <a href="https://amstat.tandfonline.com/doi/abs/10.1080/01621459.1969.10501049">A Theory for Record Linkage</a> o problema de record linkage consiste em:
+<em>"reconhecer os registros de dois arquivos que representam pessoas, objetos ou eventos idênticos"</em></p>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Nosso-contexto">Nosso contexto<a class="anchor-link" href="#Nosso-contexto">&#182;</a></h2><p>Os dados do problema <a href="https://googleweblight.com/i?u=https://archive.ics.uci.edu/ml/datasets/record%2Blinkage%2Bcomparison%2Bpatterns&amp;hl=pt-BR">Record Linkage Comparison Patterns</a> referem-se a registros epidemológicos de paciêntes com câncer de um hospital no estado de North Rhine-Westphalia na Alemanha.</p>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Estrutura-de-coleta-dos-dados">Estrutura de coleta dos dados<a class="anchor-link" href="#Estrutura-de-coleta-dos-dados">&#182;</a></h2><p>Os dados são compostos pelas seguintes colunas</p>
+<ol>
+<li>id_1: internal identifier of first record.</li>
+<li>id_2: internal identifier of second record.</li>
+<li>cmp_fname_c1: agreement of first name, first component</li>
+<li>cmp_fname_c2: agreement of first name, second component</li>
+<li>cmp_lname_c1: agreement of family name, first component</li>
+<li>cmp_lname_c2: agreement of family name, second component</li>
+<li>cmp_sex: agreement sex</li>
+<li>cmp_bd: agreement of date of birth, day component</li>
+<li>cmp_bm: agreement of date of birth, month component</li>
+<li>cmp_by: agreement of date of birth, year component</li>
+<li>cmp_plz: agreement of postal code</li>
+<li>is_match: matching status (TRUE for matches, FALSE for non-matches)</li>
+</ol>
+
+</div>
+</div>
+</div></section></section><section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[1]:</div>
