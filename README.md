@@ -16,7 +16,6 @@ O problema foi solucionado de 3 formas diferentes:
 
 Cada uma das soluções possuem seus próprios contextos, dependências e 
 nootebooks. É possível verificá-las em em suas pastas.
->>>>>>> 34acd1f83b331524fbd4611600d7a3b748df3597
 
 ## Dados
 
